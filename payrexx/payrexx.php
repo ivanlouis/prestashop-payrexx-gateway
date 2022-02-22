@@ -180,6 +180,10 @@ class Payrexx extends PaymentModule
                 'url' => 'ideal-pay.ch',
                 'name' => 'Ideal Pay',
             ],
+            [
+                'url' => 'zahls.ch',
+                'name' => 'zahls.ch',
+            ],
         ];
 
         $fields_form = [];
